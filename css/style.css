@@ -1,0 +1,50 @@
+body {font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size: 14px;
+line-height: 1.42857143;
+color: #333;
+background-color: #fff;
+}
+body {
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+ body {
+background: #fff;
+background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(255, 255, 255);
+margin: 0px;
+margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+padding: 0px;
+padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+
+background-size: 100% 100%;
+background-attachment: fixed;
+font-family: 'Spartan', sans-serif !important;
+overflow-x: hidden;
+ }
+ .callbacks img {
+    display: block;
+    position: relative;
+    z-index: 1;
+    height: auto;
+    width: 100% !important;
+    border: 0;
+ 
+ 
